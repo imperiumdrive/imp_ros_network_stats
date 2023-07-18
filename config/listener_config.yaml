@@ -1,0 +1,6 @@
+namespace:
+  ros_network_stats_listener_exe_node:
+    ros__parameters:
+      window: 100
+      timer_period: 0.1
+      order_size: 10
